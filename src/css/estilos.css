@@ -103,6 +103,7 @@ main:after {
 }
 
 footer {
+	margin-top: 40px;
 	text-align: center;
 	color: white;
 	padding-bottom: 10px;
